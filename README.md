@@ -1,6 +1,7 @@
-# Name: Ramya P
+# Name:Ramya P
+# Register number:212223240137
 # Date:
-# EX01 Developing a Simple Webserver 
+#               EX01 Developing a Simple Webserver 
 # AIM:
 To develop a simple webserver to serve html pages and display the configuration details of laptop.
 
